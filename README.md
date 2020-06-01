@@ -9,3 +9,6 @@ Compilation via le Makefile
 Pour lancer le programme : ./matchstick [nombre de colonne] [nombre de ligne]
 
 Vidéo Youtube du projet : https://www.youtube.com/watch?v=_4O_1MEir3k
+
+
+Pour en savoir plus sur le projet : https://francois-hauet.com/#work
